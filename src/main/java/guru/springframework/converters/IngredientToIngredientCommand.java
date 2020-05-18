@@ -4,7 +4,7 @@ import guru.springframework.commands.IngredientCommand;
 import guru.springframework.domain.Ingredient;
 import lombok.Synchronized;
 import org.springframework.core.convert.converter.Converter;
-import com.sun.istack.internal.Nullable;
+import javax.annotation.Nullable;
 import org.springframework.stereotype.Component;
 
 

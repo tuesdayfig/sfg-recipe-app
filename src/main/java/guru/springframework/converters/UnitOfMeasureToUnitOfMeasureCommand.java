@@ -1,6 +1,6 @@
 package guru.springframework.converters;
 
-import com.sun.istack.internal.Nullable;
+import javax.annotation.Nullable;
 import guru.springframework.commands.UnitOfMeasureCommand;
 import guru.springframework.domain.UnitOfMeasure;
 import lombok.Synchronized;
